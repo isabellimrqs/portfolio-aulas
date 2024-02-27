@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+header {
+    margin: 10px 150px 0 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 20px; 
+}
+
+.materias {
+    margin-left: 20px; 
+    font-weight: bold;
+    color: rgb(70, 70, 70);
+    font-size: 19px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.logo img {
+    width: 8rem;
+    margin: 10px; 
+}
+
+.text-home{
+    padding-top: 250px;
+}
