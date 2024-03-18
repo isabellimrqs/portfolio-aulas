@@ -50,7 +50,7 @@
 //   minhaContaPoupanca.renderJuros(0.15);
 
 
-// //  // Sistema de Livros
+// //  // 2) Sistema de Livros
 // class Livro {
 //     constructor(nome, autor, identificador, categoria, quantidade) {
 //       this.nome = nome;
@@ -82,8 +82,8 @@
 //     }
 //   }
   
-//   const livro1 = new Livro("É Assim que Acaba", "Colleen Hoover", "ISBN123", "Romance", 2);
-//   const livro2 = new Livro("A Garota do Lago", "Charlie Donlea", "ISBN321", "Suspense", 3);
+//   const livro1 = new Livro("Crepúsculo", "Stephanie Meyer", "482", "Romance", 4);
+//   const livro2 = new Livro("Vermelho, Branco e Sangue Azul", "Taylor Reid", "965", "Romance LGBTQIA+", 1);
   
 //   livro1.emprestar();
 //   livro1.emprestar();
@@ -134,15 +134,13 @@
 //     }
 //   }
 
-
-
 //   const sistemaAutenticacao = new Autenticacao();
   
-//   sistemaAutenticacao.registrar("juliana", "123");
-//   sistemaAutenticacao.registrar("isabelli", "321");
+//   sistemaAutenticacao.registrar("marisa", "0204");
+//   sistemaAutenticacao.registrar("odair", "2010");
   
-//   sistemaAutenticacao.fazerLogin("juliana", "123");
-//   sistemaAutenticacao.fazerLogin("isabelli", "senhaerrada");
+//   sistemaAutenticacao.fazerLogin("marisa", "0204");
+//   sistemaAutenticacao.fazerLogin("odair", "2011");
   
-//   sistemaAutenticacao.fazerLogout("juliana");
+//   sistemaAutenticacao.fazerLogout("marisa");
     
